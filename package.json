@@ -1,0 +1,22 @@
+{
+  "name": "11-note-taker",
+  "version": "1.0.0",
+  "description": "App to take create, update, and delete notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odisclemons/11-note-taker.git"
+  },
+  "author": "Odis Clemons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odisclemons/11-note-taker/issues"
+  },
+  "homepage": "https://github.com/odisclemons/11-note-taker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
