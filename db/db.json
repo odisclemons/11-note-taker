@@ -1,7 +1,1 @@
-[
-    {
-        "id": "324f8894-3204-4cf7-b5c1-bc060a1cfe69",
-        "title": "New note",
-        "text": "Just adding some data"
-    }
-]
+{"notes":[{"id":"c8b8a475-538d-43da-8da7-e665f7abaafe","title":"This is new","text":"check it out"},{"id":"a3422193-e574-41d4-9a47-1d06c3622df3","title":"secdsfa","text":"asdf"},{"id":"1214998f-46b8-4d1b-9aa0-7349ed79f765","title":"asdfasdfas","text":"dasdfsfsa"},{"id":"b324da46-70d1-40dd-9626-291cd9214aeb","title":"Amazing new note","text":"asdfaskjllasdkjf"},{"id":"d693e6b1-1cf2-4757-b7ce-1fccd191325e","title":"asdfas","text":"asdfgghg"},{"id":"b67c067e-1f6c-4da8-84d9-0083b9079ecf","title":"fgdfg","text":"jhjklgh"},{"id":"9c394f5f-26b0-4145-b98f-9d92cbb6b9b6","title":"asdfas","text":"dfghfghdf"},{"id":"b35a4536-3edf-4f4f-a03e-ff947f951ede","title":"yy","text":"fghjfg"},{"id":"da9ec1e7-6f61-4c11-a9c4-923a48030459","title":"lkdfjlkgjdlskgjds","text":"fgdfhdgfghd"},{"id":"a27d75f4-3b74-4947-a6ed-c52196847fa5","title":"fgsdfgs","text":"hghj"}]}
