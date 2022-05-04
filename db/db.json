@@ -1,6 +1,7 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "324f8894-3204-4cf7-b5c1-bc060a1cfe69",
+        "title": "New note",
+        "text": "Just adding some data"
     }
 ]
