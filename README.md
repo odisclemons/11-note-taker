@@ -31,10 +31,24 @@ git clone https://github.com/odisclemons/11-note-taker
 
 cd 11-note-taker
 
+yarn start
+
 
 
   ## Usage
 Note Taker is very simple to use.  Just click the + icon at the upper right-hand corner.  This will allow you to create a new note.  After that, fill in the note title and description.  Finally you can click the save icon.  Note: you cannot save a note until both fields are filled in.
+
+
+## Click the image below to watch a usage demo.
+
+[![Watch the video](./Assets/Screenshot_20220504_212850.png)](https://www.youtube.com/watch?v=U7f9lmgys8E)
+
+
+
+## Links
+[Heroku: https://odis-11-note-taker.herokuapp.com/](https://odis-11-note-taker.herokuapp.com/)
+
+[Github: https://github.com/odisclemons/11-note-taker](https://github.com/odisclemons/11-note-taker)
 
 
 
