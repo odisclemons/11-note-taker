@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const fs = require('fs');
 const path = require('path');
-const { isArray } = require('util');
 const { v4: uuid } = require('uuid');
 
 const db = path.join("db", "db.json")
