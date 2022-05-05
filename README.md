@@ -9,6 +9,8 @@
 
   [Usage Info](#usage)
 
+  [Links](#links)
+
   [Contribute](#contribute)
 
   [Tests](#tests)
