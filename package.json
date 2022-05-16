@@ -2,9 +2,10 @@
   "name": "11-note-taker",
   "version": "1.0.0",
   "description": "App to take create, update, and delete notes.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "dev": "open-cli http://localhost:5000 && nodemon bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "dependencies": {
     "express": "^4.18.1",
     "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "open-cli": "^7.0.1"
   }
 }

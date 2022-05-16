@@ -21,7 +21,9 @@ router.post('/api/notes', async (req, res) => {
 })
 
 router.get('/api/notes', async (req, res) => {
-    return getNotes().then(notes => res.send(notes)).catch(res.status(500).send("Could not save note."))
+    return getNotes()
+        .then(notes => res.send(notes))
+        .catch(() => res.status(500).send("Could not save note."))
 })
 
 router.delete('/api/notes/:id', async (req, res) => {
